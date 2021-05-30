@@ -13,9 +13,8 @@ Table des Matières
 
 * [Disclaimer](#Disclaimer)
 
-* [Installation sur Linux](#Installation-sur-Linux)
+* [Installation sur Pc](#Installation-sur-Pc)
 
-* [Installation sur Windows](#Installation-sur-Windows)
 
 
 
